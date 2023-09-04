@@ -1,8 +1,8 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='wash',
     version='0.0.1',
-    packages=[],
     install_requires=[],
+    packages=find_packages(),
 )
