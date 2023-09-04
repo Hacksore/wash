@@ -1,4 +1,4 @@
-def wash(input_dict):
+def wash(input_dict: dict) -> None: 
     if input_dict is not None:
         print('get a dict')
 
@@ -13,3 +13,4 @@ def wash(input_dict):
 
     else:
         print("can't wash your dict")
+    
