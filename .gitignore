@@ -1,3 +1,4 @@
-wash.egg-info
+dict_wash.egg-info
 build/
 dist/
+.pypirc

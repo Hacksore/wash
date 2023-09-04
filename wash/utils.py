@@ -27,7 +27,6 @@ def wash(input_dict: dict) -> None:
         
     
     else:
-        print("can't wash your dict")
     
 
 

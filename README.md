@@ -2,4 +2,4 @@
 
 https://clips.twitch.tv/GiantTemperedBurritoPrimeMe-GhpDIyO96YIdOUXB
 
-TODO: impl washing
+- TODO: impl unit tests
