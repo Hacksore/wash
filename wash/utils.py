@@ -10,6 +10,6 @@ def wash(input_dict):
                 print('wash your dict')
         finally:
             print("wash your dict")
-    
+
     else:
         print("can't wash your dict")
