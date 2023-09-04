@@ -1,4 +1,4 @@
-def wash(input_dict: dict) -> None: 
+def wash(input_dict: dict) -> None:
     """
     >>> wash({})
     wash your dict
@@ -8,8 +8,7 @@ def wash(input_dict: dict) -> None:
     get a dict
     can't wash your dict
     """
-    
-    
+
     if input_dict is None:
         print('get a dict')
 
@@ -24,11 +23,9 @@ def wash(input_dict: dict) -> None:
                 print('wash your dict')
         except TypeError:
             print('skill issue')
-        
-    
+
     else:
         print("can't wash your dict")
-
 
 
 if __name__ == '__main__':
